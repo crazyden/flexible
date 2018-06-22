@@ -1,2 +1,3 @@
-This Jekyll thème was created by artemsheludko/flexible-jekyll
-It's intersting for me by the possibility to add a picture for every post
+This Jekyll thème was created by <a href="artemsheludko/flexible-jekyll">artemsheludko/flexible-jekyll</a>
+I like it by the possibility to add a picture in every post.
+
