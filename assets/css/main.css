@@ -22,6 +22,7 @@ html {
  */
 body {
   margin: 0;
+  background-color: #ccc;
 }
 
 /**
@@ -97,7 +98,7 @@ pre {
  * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
  */
 a {
-  background-color: #ddd; /* transparent; */
+  background-color: transparent;
   /* 1 */
   -webkit-text-decoration-skip: objects;
   /* 2 */
